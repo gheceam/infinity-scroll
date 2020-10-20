@@ -1,6 +1,6 @@
 // Unsplash API
-const count = 10;
-const apiKey = 'apiKey'; // enter api key here
+const count = 20;
+const apiKey = '4c_DtMFLzXxnn02M7pQKb4j_oZSC6H5mqib6Kb0o7zM'; // enter api key here
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`
 
 
